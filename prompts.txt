@@ -1,1 +1,93 @@
+PROMPT 1 – HOMEPAGE COPY
 
+Act as a professional website copywriter.
+
+Write homepage copy for a beauty salon called “Glow Beauty Salon” located in Hyderabad.
+
+Tone: Friendly, modern, elegant, welcoming, and conversion-focused.
+
+Generate:
+
+- Headline
+- Subheadline
+- Intro paragraph
+- Why choose us section
+- CTA section
+
+Keep the language simple and suitable for a real salon website.
+
+
+--------------------------------------------------
+
+
+PROMPT 2 – SERVICES PAGE
+
+Write service page content for a beauty salon website.
+
+Business Name: Glow Beauty Salon
+
+Include:
+
+- Hair services
+- Skincare services
+- Bridal makeup
+- Spa treatments
+
+For each service include:
+
+- Short description
+- Benefits
+- Why customers should choose this service
+
+Use clear and engaging website language.
+
+
+--------------------------------------------------
+
+
+PROMPT 3 – CTA GENERATION
+
+Generate persuasive CTA sections for a salon website.
+
+Include:
+
+- Booking CTA
+- Contact CTA
+- Trust-building CTA
+- Location-based CTA
+
+Tone should be friendly and action-oriented.
+
+
+--------------------------------------------------
+
+
+PROMPT 4 – TONE ADAPTATION
+
+Write website copy examples for different business tones.
+
+Include:
+
+1. Friendly Tone (Salon/Cafe)
+2. Professional Tone (Clinic/Agency)
+
+Provide one short example for each tone style.
+
+
+--------------------------------------------------
+
+
+PROMPT 5 – WEBSITE READY CONTENT
+
+Create website-ready content for a local beauty salon using AI-generated copy.
+
+Requirements:
+
+- Simple and clear language
+- Professional structure
+- Customer-focused messaging
+- Strong call-to-actions
+- SEO-friendly wording
+
+Business Location: Hyderabad
+Business Name: Glow Beauty Salon
